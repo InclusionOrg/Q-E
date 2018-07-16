@@ -1,0 +1,153 @@
+{
+    "title": "Provocations For Applied Empathy",
+    "author": "Sub Rosa",
+    "year": 2017,
+    "whyEmpathy": [
+                     "A singular definition of empathy is elusive. This set will help you form your own.",
+                     "We see it as the ability to unlock true understanding of the feelings present not just in others, but also in ourselves. Some of us are naturally predisposed empaths, but for the rest of us, it's a skill that is learned and developed.",
+                     "It requires curiosity and imagination, and it's a muscle that we must constantly train. Doing so will help you discover greater purpose, inform sound decisions, build deeper relationships, and create better solutions.",
+                     "We hope you'll take your newfound understanding and make something meaningful."
+                     ],
+    "unlockingEmpathy": [
+                          "These cards have many uses for individuals and groups. Pull them at random or explore according to the applications described in the guidebook.",
+                          "With no right answers and the juxtaposition of different perspectives, these cards will broaden your understanding of empathy and reveal how it can improve your life and work.",
+                          "Remember that each of the archetypes - our 7 ways of being empathic - are just one part of one than another but the aid is to embody all."
+                          ],
+    "deepDive": {
+        "Object": "Stretch your empathic understanding and facilitate connection in a space conducive to one-on-one conversation.",
+        "Application": "Ask an even-numbered group of people to think of a time when they struggled to understand someone's point of view. Then provoke by asking: What happened? How did it make you feel? How did it make those affected feel? Follow this exploration by examining the 7 archetypes and identifying which behavior is more relevant to the circumstance. Then pair off, and at random each choose 2 cards from the identified archetype. Spend 5 minutes with each question, going deeper as time unfolds."
+    },
+    "otherWaysIn": {
+        "Game": [
+                 "Ice Breaker",
+                 "Dinner Party Starter",
+                 "Empathy Journal"
+                 ],
+        "Object": [
+                   "Get to know others with a little more meaning by starting a gathering with thoughtful energy.",
+                   "Make small talk bigger amongst friends or strangers.",
+                   "Explore the role empathy currently plays in your life and how it can help you and your relationships over the next 7 weeks."
+                   ],
+        "Application": [
+                        "Shuffle the deck and distribute to participants at random. Each person must answer their chosen question in one sentence.",
+                        "Position a card along each place setting so that every guest can ask a question over the course of the evening.",
+                        "Start by writing down what empathy means to you. Then identify the archetype you feel most aligned with and successively order the set towards the behaviors in which you are more deficient. Each day, choose a card from the week's archetype and capture your answer. On the 50th day, capture your evolved definition of empathy."
+                        ]
+    },
+    "archetypes": {
+        "sage": [
+                 "Be Present: Inhabit the here and now",
+                 "The sage represents the ability to be fully in the moment, sensing truths about the mind, body and surrounding space. Examine what is brought into the moment and what is intended to be taken upon departure. Look to the Sage when the situation becomes untethered from the present and thus disconnected from reality. It will help you bring people and their ideas back to the here and now."
+                 ],
+        "inquirer": [
+                     "Question: Interrogate assumed truths",
+                     "One part reporter, one part therapist, the Inquirer challenges preconceived notions and pushes for deeper, more authentic truths. Inquirers neglect small talk in favor of 'big' talk: deep questions that demand contemplative responses. Always intrigued by the 'why' behind each answer. Inquirers dig and dig until they reach the root."
+                     ],
+        "convener": [
+                     "Host: Anticipate the needs of others",
+                     "The consummate host, the Convener understands the importance of space and space-holding. The Convener creates a purposeful and appropriate setting for the work at hand. Every detail is critical. The space we share is an active member of the experience. The Convener knows what you need before you know it yourself and brings the space surrounding you to life."
+                     ],
+        "alchemist": [
+                      "Experiment: Test and learn at all costs",
+                      "Never afraid to fall in pursuit of knowledge, the Alchemist tests everything, confident that the best work only comes from countless hours of experimentation. Be curious, persistent, and patient. Take a chance on a new approach, and closely study the results. Turn to the Alchemist when the only path to the solutions lies through the brambles of failure."
+                      ],
+        "confidant": [
+                      "Listen: Summon the ability to observe and absorb",
+                      "Your trusted ally, the Confidant hears to listen - not to plan what to say next. Embody stillness. Listen, observe, and absorb. Keeping what you hear safe on behalf of another is what gives them safety and strength. Look to the Confidant when asked for advice or when others need to share something of importance. The Confidant offers emotional security and comfort."
+                      ],
+        "seeker": [
+                   "Dare: Be confident and fearless",
+                   "A boundless explorer, the Seeker throws caution to the wind and sets out on new adventures. Live outside of your comfort zone. Act with confidence and self-assurance. Embody the Seeker when embracing new experiences and daunting challenges, knowing that your unfettered pursuits will eventually lead you to the answers."
+                   ],
+        "cultivator": [
+                       "Commit: Nurture and intentionally give",
+                       "Committed to developing ideas, the Cultivator is intentional about every action. Connect everything you do to the development and maintenance of your thoughts and work. When something feels daunting and protracted, look to the Cultivator to offer perspective and leadership. Naturally gifted at seeing the long game, the Cultivator knows what it takes to reap what you've sown."
+                       ]
+    },
+    "categories": {
+        "cultivatorDesc": [
+                    "Commit: Nurture and intentionally grow", "Committed to developing ideas, the Cultivator is intentional about every action. Connect everything you do to the development and maintenance of your thoughts and work. When something feels daunting and protracted, look to the Cultivator to offer perspective and leadership. Naturally gifted at seeing the long game, the Cultivator knows what it takes to reap what you've sown."
+        ],
+        "cultivatorCards": [
+                        "What are your most audacious aspirations?",
+                        "How do you build endurance?",
+                        "When has mentorship played a role in your life?",
+                        "Where do you feel most nurtured?",
+                        "What commitment have you made to yourself more than once?",
+                        "What do you purposefully leave undone?",
+                        "Who are your long-term partners?"
+                       ],
+        "confidantDesc": [
+                        "Listen: Summon the ability to observe and absorb", "Your trusted ally, the Confidant hears to listen - not to plan what to say next. Embody stillness. Listen, observe, and absorb. Keeping what you hear safe on behalf of another is what gives them safety and strength. Look to the Confidant when asked for advice or when others need to share something of importance. The Confidant offers emotional security and comfort."
+        ],
+        "confidantCards": [
+                      "What role can silence play in a conversation?",
+                      "How do you build trust?",
+                      "What should people better understand about you?",
+                      "How do you protect yourself?",
+                      "When have you breached a confidence?",
+                      "When is listening more valuable than counseling?",
+                      "When are you the most observant?"
+                      ],
+        "convenerDesc": [
+                    "Host: Anticipate the needs of others", "The consummate host, the Convener understands the importance of space and space-holding. The Convener creates a purposeful and appropriate setting for the work at hand. Every detail is critical. The space we share is an active member of the experience. The Convener knows what you need before you know it yourself and brings the space surrounding you to life."
+        ],
+        "convenerCards": [
+                     "What about you most comforts others?",
+                     "Who do you collaborate with best?",
+                     "When do you bring people together?",
+                     "Where is your favorite place to be a guest?",
+                     "What makes an experience meaningful?",
+                     "How do you balance being self-serving and selfless?",
+                     "What are a host's greatest skills?"
+                     ],
+        "alchemistDesc": [
+                     "Experiment: Test and learn at all costs", "Never afraid to fail in the pursuit of knowledge, the Alchemist tests everything, confident that the best work only comes from countless hours of experimentation. Be curious, persistent, and patient. Take a chance on a new approach, and closely study the results. Turn to the Alchemist when the only path to the solutions lies through the brambles of failure."
+        ],
+        "alchemistCards": [
+                      "Who has challenged you to be better than you once were?",
+                      "What motivates you to progress?",
+                      "Where do you go to experiment?",
+                      "When does your curiosity create difficulty?",
+                      "How does iteration inform the outcome of your work?",
+                      "What are the biggest sacrifices you've made?",
+                      "What does approaching breakthrough feel like?"
+                      ],
+        "inquirerDesc": [
+                    "Question: Interrogate assumed truths", "One part reporter, one part therapist, the Inquirer challenges preconceived notions and pushes deeper, more authentic truths. Inquirers neglect small talk in search of 'big' talk: deep questions that demand contemplative responses. Always intrigued by the 'why' behind each answer, Inquirers dig and dig until they reach the root."
+        ],
+        "inquirerCards": [
+                     "What do you most want to know?",
+                     "What types of questions make you most uncomfortable?",
+                     "What do you continually ask yourself?",
+                     "Who do you go to with tough questions?",
+                     "How does your body communicate?",
+                     "What are your personal biases that most interfere with finding truth?",
+                     "When have your instincts led you astray?"
+                     ],
+        "seekerDesc": [
+                    "Dare: Be confident and fearless", "A boundless explorer, the Seeker throws caution to the wind and sets out on new adventures. Live outside your comfort zone. Act with confidence and self-assurance. Embody the Seeker when embracing new experiences and daunting challenges, knowing that your unfettered pursuits will eventually lead you to the answer."
+        ],
+        "seekerCards": [
+                        "How does courage manifest in your work?",
+                        "When does bravery become foolhardy?",
+                        "Who inspires a sense of adventure in you?",
+                        "Where do you go to push your limits?",
+                        "When is failure productive?",
+                        "What mistake would you make again?",
+                        "How do you explore your inner self?"
+                   ],
+        "sageDesc": [
+                    "Be Present: Inhabit the here and now", "The sage represents the ability to be fully in the moment, sensing truths about the mind, body and surrounding space. Examine what is brought into the moment and what is intended to be taken upon departure. Look to the Sage when the situation becomes untethered from the present and thus disconnected from reality. It will help you to bring people and their ideas back to the here and now."
+        ],
+        "sageCards": [
+                 "How do you stay grounded when the world gets overwhelming?",
+                 "How do you nurture yourself and your practice?",
+                 "When negative emotions arise, how do you deal with them?",
+                 "Where do you feel most present?",
+                 "What is a lesson you have imparted to others?",
+                 "What is your purpose?",
+                 "How has your past shaped who you are?"
+                 ]
+    }
+}
